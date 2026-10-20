@@ -1,0 +1,24 @@
+{
+  "name": "Grupo Gejo - Carrocería, Pintura & Styling Automotor",
+  "short_name": "Grupo Gejo",
+  "description": "Taller de Chapa y Pintura, Styling y Cosmética Automotor en Mar del Plata. Más de 50 años de trayectoria.",
+  "icons": [
+    {
+      "src": "assets/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#0b0f19",
+  "background_color": "#0b0f19",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "orientation": "portrait"
+}

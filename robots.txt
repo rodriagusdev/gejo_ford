@@ -1,0 +1,8 @@
+# robots.txt for Grupo Gejo - Carrocería, Pintura & Styling Automotor
+# https://grupogejo.com.ar/
+
+User-agent: *
+Allow: /
+
+# Public sitemap location
+Sitemap: https://grupogejo.com.ar/sitemap.xml
